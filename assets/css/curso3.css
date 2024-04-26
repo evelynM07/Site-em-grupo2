@@ -1,16 +1,25 @@
 *{
     margin: 0;
+    padding: 0;
+    text-decoration: none;
 }
 
+.cor-verde {
+   color: rgb(3, 88, 3);
+} 
 
-.Eh1 {
+.home2 .Eh1 {
     text-align: center;
     color: white;
     background-color: green;
-
-
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
+.home2 .emg1 {
+    width: 1300px;
+}
 
 .cor-verde {
     color: rgb(28, 155, 28);
@@ -18,13 +27,84 @@
 
 .home2 .Ediv1 {
     background-color: rgba(0, 0, 0, 0.08);
-    border: 20px solid white;
+    border: 1px solid white;
     border-left: 20px solid white;
-    border-right: 500px solid white;
+    border-right: 0px solid white;
     padding-left: 15px;
-    letter-spacing: 100;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
-.Eh2-2 {
-
+p {
+    padding-top: 25px;
 }
+
+.Eimg2 {
+    width: 300px;
+    margin: 0 auto; display: block;
+    margin-top: 20px;
+}
+
+.Eh2-3 {
+    text-align: center;
+    color: rgb(3, 88, 3);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+}
+  
+.Es1 {
+    background-color: rgba(0, 0, 0, 0.08);
+    padding-top: 25px;
+    border: 1px solid white;
+    border-left: 20px solid white;
+    border-right: 20px solid white;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+.Eimg5 {
+    width: 900px;
+    margin: 0 auto; display: block;
+}
+
+.Eh26 {
+    text-align: center;
+    color: rgb(3, 88, 3);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+}
+
+.Eh28 {
+    text-align: center;
+    color: rgb(3, 88, 3);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+}
+
+.EP29 {
+    background-color: rgba(0, 0, 0, 0.08);
+    padding-top: 25px;
+    border: 1px solid white;
+    border-left: 20px solid white;
+    border-right: 20px solid white;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+   
+
+    
+}
+.Ediv25 {
+    background-color: rgba(0, 0, 0, 0.08);
+    padding-top: 25px;
+    border: 1px solid white;
+    border-left: 20px solid white;
+    border-right: 20px solid white;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+
+
