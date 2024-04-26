@@ -2,6 +2,24 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header .nav1 {
+    font-weight: 500;
+    background-color: rgba(3, 88, 3, 0.66);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: right;
+    padding-right: 100px;
+    font-size: 13px;
+
+}
+
+header .nav1 span {
+    padding-right: 10px;
 }
 
 .cor-verde {
@@ -19,7 +37,8 @@
 
 .home2 .emg1 {
     width: 1300px;
-    box-shadow: 3px 4px 20px #7b7272;
+    display: block;
+    margin: 0 a;
 }
 
 .cor-verde {
@@ -106,5 +125,12 @@ p {
     padding-top: 15px;
     padding-bottom: 20px;
 }
-
+footer {
+    background-color: rgb(3, 88, 3);
+    font-family: 'Arial';
+    text-align: center;
+    padding-top: 10;
+    margin: 0;
+    color: aliceblue;
+}
 

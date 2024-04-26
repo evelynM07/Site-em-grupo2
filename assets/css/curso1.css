@@ -5,6 +5,53 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+header .nav1 {
+    font-weight: 500;
+    background-color: #eb8e03a9;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: right;
+    padding-right: 100px;
+    font-size: 13px;
+
+}
+
+header .nav1 span {
+    padding-right: 10px;
+}
+
+
+header .topo .img3 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+header .topo .img4 {
+    width: 250px;
+}
+
+header {
+    background-color: EB9003;
+    margin: 0;
+}
+
+header nav {
+    background-color: #fdfdfd;
+    padding-top: 10;
+    padding-bottom: 3;
+    text-align: center;
+    margin-top: 15;
+    padding-bottom: 10;
+}
+
+header .topo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 img {
     max-width: 100%;
 }
@@ -148,4 +195,12 @@ img {
 
 .home .bt1:hover {
     opacity: 0.4;
+}
+footer {
+    background-color: #EB9003;
+    font-family: 'Arial';
+    text-align: center;
+    padding-top: 10;
+    margin: 0;
+    color: aliceblue;
 }
