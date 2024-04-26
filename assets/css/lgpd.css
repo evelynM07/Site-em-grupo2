@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+p {
+    padding: 20px;
+}
+
+h2 {
+    padding: 50px;
+}
+
+.home3 .título{
+    background-color: rgb(8, 25, 111);
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 2em;
+}
+
+.imagens {
+    text-align: center;
+    background-color: rgba(11, 32, 137, 0.895);
+}
+
+.imagens img {
+    margin: 60px;
+    
+}
+
+.imagens h2 {
+    color: white;
+    text-align: center;
+}
+
+.conteúdo {
+    padding-top: 20px;
+    text-align: justify;
+    background-color: rgb(79, 137, 230);
+    color: black;
+}
+
+.conteúdo img {
+    display: block;
+    margin: 0 auto;
+}
+
+.AVISOS {
+    padding-top: 20px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.895);
+    color: white;
+}
+
+.final {
+    padding-top: 20px;
+    text-align: left;
+    background-color: rgb(40, 121, 197);
+    color: black;
+}
