@@ -19,6 +19,7 @@
 
 .home2 .emg1 {
     width: 1300px;
+    box-shadow: 3px 4px 20px #7b7272;
 }
 
 .cor-verde {
@@ -35,7 +36,6 @@
     padding-bottom: 20px;
 }
 
-<<<<<<< Updated upstream
 p {
     padding-top: 25px;
 }
@@ -108,6 +108,3 @@ p {
 }
 
 
-
-=======
->>>>>>> Stashed changes
