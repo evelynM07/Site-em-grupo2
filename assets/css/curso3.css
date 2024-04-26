@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+
+
+.Eh1 {
+    text-align: center;
+    color: white;
+    background-color: green;
+
+
+}
+
+
+.cor-verde {
+    color: rgb(28, 155, 28);
+}
+
+.home2 .Ediv1 {
+    background-color: rgba(0, 0, 0, 0.08);
+    border: 20px solid white;
+    border-left: 20px solid white;
+    border-right: 500px solid white;
+    padding-left: 15px;
+    letter-spacing: 100;
+}
+
+.Eh2-2 {
+
+}
