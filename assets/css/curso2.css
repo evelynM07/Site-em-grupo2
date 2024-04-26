@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+header .nav1 {
+    font-weight: 500;
+    background-color: lightskyblue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: right;
+    padding-right: 100px;
+    font-size: 13px;
+
+}
+
+header .nav1 span {
+    padding-right: 10px;
+}
+
+
+header .topo .img3 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+header .topo .img4 {
+    width: 250px;
+}
+
+header {
+    background-color: rgba(0, 0, 255, 0.539);
+    margin: 0;
+}
+
+header nav {
+    background-color: #fdfdfd;
+    padding-top: 10;
+    padding-bottom: 3;
+    text-align: center;
+    margin-top: 15;
+    padding-bottom: 10;
+}
+
+header .topo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.home1{
+        background-color: lightskyblue;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: larger;
+}
+
+.titulo{
+    color: white;
+    background-color: blue;
+    padding-top: 10;
+    padding-bottom: 10;
+    
+}
+
+.assunto{
+    color: black;
+    padding-top: 10;
+    padding-bottom: 10;
+}
+
+.foto{
+    padding-top: 20;
+    padding-bottom: 20;
+}
+footer {
+    background-color: blue;
+    font-family: 'Arial';
+    text-align: center;
+    padding-top: 10;
+    margin: 0;
+    color: aliceblue;
+}
